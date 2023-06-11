@@ -12,5 +12,11 @@ Check the 2 patches and XhciPortLimit to remove the restriction, and hope to int
 
 当然 你还需要给原来的USB端口补丁取消，重新注入USBInjectAll.kext或者XHCI-unsupported.kext（最高支持Z690）
 USBToolBox.kext+UTBMap.kext (适用于700和AMD)
+
 Of course, you still need to cancel the original USB port patch and re-inject USBInjectAll.kext or XHCI-unsupported.kext (up to Z690)
 USBToolBox.kext+UTBMap.kext (for 700 and AMD)
+
+
+抱歉Sonoma apple已经更换补丁，我需要重新查找，所以以上补丁适用于11-13，Sonoma的 我准备重新查找，最近比较忙。有x86汇编专家协助我就好了。微信：zmlk1213 请与我联系
+
+Sorry Sonoma apple has changed the patch, I need to search again, so the above patch is applicable to 11-13, Sonoma I am going to search again, I am busy recently. It would be nice to have an x86 assembler expert assist me. WeChat: zmlk1213 Please contact me
