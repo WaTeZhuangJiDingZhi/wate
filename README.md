@@ -18,6 +18,6 @@ Of course, you still need to cancel the original USB port patch and re-inject US
 USBToolBox.kext+UTBMap.kext (for 700 and AMD)
 
 
-抱歉Sonoma apple已经更换补丁，我需要重新查找，所以以上补丁适用于11-13，Sonoma的 我准备重新查找，最近比较忙。有x86汇编专家协助我就好了。请与我联系
+抱歉Sonoma apple已经更换补丁，我需要重新查找，所以以上补丁适用于11-13，Sonoma的需要重新查找，最近比较忙
 
 Sorry Sonoma apple has changed the patch, I need to search again, so the above patch is applicable to 11-13, Sonoma I am going to search again, I am busy recently. It would be nice to have an x86 assembler expert assist me. Please contact me
